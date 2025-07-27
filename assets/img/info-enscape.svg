@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="995.71" height="985.26" viewBox="0 0 995.71 985.26">
+  <defs>
+    <style>
+      .a {
+        fill: url(#a);
+      }
+    </style>
+    <linearGradient id="a" data-name="Unbenannter Verlauf 2" x1="-20.23" y1="1004.62" x2="-16.29" y2="1004.62" gradientTransform="matrix(-207.96, 120.06, 120.06, 207.95, -123863.84, -206258.72)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eb5d1b"/>
+      <stop offset="0.01" stop-color="#eb5d1b"/>
+      <stop offset="1" stop-color="#ee9606"/>
+    </linearGradient>
+  </defs>
+  <path class="a" d="M497.86,0,0,289,177.56,762.45,501.34,985.26l320.3-219.33,66.14-174.08L497.86,814.67,292.45,692.82,222.82,483.93l275,160.15L950.45,383l13.93-10.44,31.33-87Zm0,473.48L205.41,302.89,497.86,135.78,790.3,306.37Z"/>
+</svg>
